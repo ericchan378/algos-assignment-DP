@@ -1,5 +1,6 @@
 /**
  * Glass Falling
+ Author: Eric Chan
  */
 public class GlassFalling {
 
